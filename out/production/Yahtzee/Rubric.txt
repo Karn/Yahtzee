@@ -1,0 +1,41 @@
+YAHTZEE RUBRIC!
+
+Level 1 (50-59):
+
+Your program uses a thread to run an extended JFrame.
+
+The JFrame is populated with at least two functional JComponents.
+
+Javadoc commenting and generated html files.*/
+
+Level 2 (60-69):
+
+Game is run using a thread
+
+You are able to roll five virtual dice using modified JPanels which display on screen
+
+You are using a Layout Manager other than just one FlowLayout to organize your JFrame OR are overriding your Layout Manager using setBounds
+
+Level 3 (70-79):
+
+Limited functionality 1 Player Yahtzee
+
+Some attempt at scoring and tracking points/rolls/turns
+
+Level 4- (80-89):
+
+Fully-Functional 1 Player Yahtzee (with modified rules and scoring - Arbitrary number of turns AND You can score the same type of roll any number of times)
+
+JFrame is organized nicely using Panel-in-Panel
+
+Level 4 (90-94):
+
+Fully-Functional 2 Player Yahtzee
+
+Either each individual player receives their own set of dice, or the dice have different colours depending on who is rolling
+
+Level 4+ (95-100):
+
+Original rules Yahtzee - play until every type of score is chosen
+
+Some Animation (like having the dice randomize before selecting final values)
